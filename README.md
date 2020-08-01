@@ -1,2 +1,2 @@
 # Javascript
-Aulas JavaScript
+Exercicios das Aulas JavaScript
